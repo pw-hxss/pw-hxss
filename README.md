@@ -10,7 +10,7 @@
   <h2>Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=pw-hxss&count_private=true&show_icons=true&theme=onedark" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=pw-hxss&theme=radical%22%20width=%2249%%22%20alt=%22streaks%20graph" />
+  <!--<img src="https://streak-stats.demolab.com/?user=pw-hxss&theme=radical%22%20width=%2249%%22%20alt=%22streaks%20graph" />-->
   <br>
   Visitor count
   <br>
