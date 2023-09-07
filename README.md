@@ -1,4 +1,4 @@
-<h1 align="center">pw-hxss</h1>
+<h1 align="center">pw-hxss (Hoshino Kenshi)</h1>
 
 <br>
 <br>
